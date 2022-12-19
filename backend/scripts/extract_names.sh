@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "@amazon.com" $1
+grep -i "@amazon.com" $1 > results.txt
